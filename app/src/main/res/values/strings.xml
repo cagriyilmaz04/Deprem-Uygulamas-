@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deprem Uygulaması</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="depremin_yeri">Depremin Yeri</string>
+    <string name="deprem_buyukluk">Depremin Büyüklüğü</string>
+    <string name="son_depremler">Son Depremler</string>
+</resources>
